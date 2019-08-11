@@ -1,0 +1,12 @@
+#Client AliasDNS        OS      IP      Technology      Datos
+google  google.cat      Unknown 216.58.201.131  SQL     virtual - (último backup 1 de mayo) - SQL
+DNS     google-public-dns-a.google.com  Unknown 8.8.8.8 DNS Unknown
+DNS     google-public-dns-b.google.com  Unknown 8.8.4.4 DNS Unknown
+google  google.cat      Unknown 216.58.201.131  SQL     virtual - (último backup 1 de mayo) - SQL
+google  google.cat      Unknown 216.58.201.131  SQL     virtual - (último backup 1 de mayo) - SQL
+google  google.cat      Unknown 216.58.201.131  SQL     virtual - (último backup 1 de mayo) - SQL
+google  google.cat      Unknown 216.58.201.131  SQL     virtual - (último backup 1 de mayo) - SQL
+DNS     google-public-dns-a.google.com  Unknown 8.8.8.8 DNS Unknown
+DNS     google-public-dns-b.google.com  Unknown 8.8.4.4 DNS Unknown
+DNS     google-public-dns-a.google.com  Unknown 8.8.8.8 DNS Unknown
+DNS     google-public-dns-b.google.com  Unknown 8.8.4.4 DNS Unknown
